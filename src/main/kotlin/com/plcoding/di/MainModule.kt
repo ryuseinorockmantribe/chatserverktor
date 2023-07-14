@@ -9,7 +9,7 @@ import org.litote.kmongo.reactivestreams.KMongo
 
 
 
-val connectionString = "mongodb://naisho:naisho2011@lan-2870115-lan:27017"
+val connectionString = "mongodb://naisho:naisho2011@172.16.0.1:27017"
 
 
 val mainModule = module {
