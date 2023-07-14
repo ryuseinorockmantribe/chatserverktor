@@ -8,8 +8,8 @@ import org.litote.kmongo.coroutine.coroutine
 import org.litote.kmongo.reactivestreams.KMongo
 
 
-
-val connectionString = "mongodb://naisho:naisho2011@172.16.0.1:27017"
+172.16.0.1
+val connectionString = "mongodb://naisho:naisho2011@103-101-201-62.cloud-xip.com:27017"
 
 
 val mainModule = module {
